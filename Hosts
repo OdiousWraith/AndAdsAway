@@ -1,0 +1,14 @@
+ # Project 2
+  # General Android Host File
+  # Blocks multiple ad hosts that are present in android apps... hopefully. 
+  # This file is available for any use, by any one. Fuck Ads
+
+
+
+# [Samsung Music]
+127.0.0.1 cdn-f.adsmoloco.com
+127.0.0.1 experiment-cdn.liftoff.io
+127.0.0.1 static.zmvideo.com
+127.0.0.1 c.tpbid.com
+127.0.0.1 i.scdn.co
+
