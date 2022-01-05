@@ -18,3 +18,5 @@
 127.0.0.1 csi.gstatic.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 fundingchoicesmessages.google.com
+127.0.0.1 2001:4860:4860::8888
+127.0.0.1 dns.google
