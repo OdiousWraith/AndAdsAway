@@ -21,3 +21,14 @@
 127.0.0.1 2001:4860:4860::8888
 127.0.0.1 dns.google
 127.0.0.1 adclick.g.doubleclick.net
+
+# [Spotify]
+127.0.0.1 sharing-config.spotifycdn.com
+127.0.0.1 apresolve.spotify.com
+127.0.0.1 ap-guc3.spotify.com
+127.0.0.1 dealer.spotify.com
+127.0.0.1 api2.branch.io
+127.0.0.1 login5.spotify.com
+127.0.0.1 app.adjust.com
+127.0.0.1 cdn.branch.io
+127.0.0.1 graph.facebook.com
